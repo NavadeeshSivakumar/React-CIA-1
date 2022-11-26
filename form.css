@@ -1,0 +1,37 @@
+.main {
+    background-color: bisque;
+    width: 80%;
+    margin: 5%;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    border: 3px solid goldenrod;
+    border-radius: 10px;
+}
+
+form {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    line-height: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.in {
+    height: 40px;
+    width: 100%;
+    margin: 3%;
+    padding: 1%;
+    border: 3px solid goldenrod;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+label {
+    text-align: left;
+    margin: 3%;
+    padding: 1%;
+    font-size: 20px;
+    width: 100%;
+}
